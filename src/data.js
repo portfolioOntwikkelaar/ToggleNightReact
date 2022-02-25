@@ -1,31 +1,31 @@
 const articles = [
   {
     id: 1,
-    title: 'the WET Codbase',
+    title: 'Dreamcatcher DIY try-hard artisan 3 wolf moon',
     date: new Date(2022, 8, 1),
     length: 10,
-    snippet: `Come waste your time with me`,
+    snippet: `organic butcher`,
   },
   {
     id: 2,
-    title: 'goodby, clean code',
+    title: 'Franzen organic hoodie kickstarter etsy marfa schlitz',
     date: new Date(2022, 10, 22),
     length: 5,
-    snippet: `Let clean code guide you. Then let it go.`,
+    snippet: `Gochujang chicharrones kitsch unicorn snackwave food truck.`,
   },
   {
     id: 3,
-    title: 'my decade in review',
-    date: new Date(2018, 7, 11),
+    title: 'Mustache fanny pack ethical flannel skateboard.',
+    date: new Date(2011, 7, 11),
     length: 5,
-    snippet: `A personal reflection.`,
+    snippet: `Stumptown kitsch retro .`,
   },
   {
     id: 4,
-    title: 'what are the react team principles',
-    date: new Date(2015, 5, 4),
+    title: 'Ramps hexagon art party vegan.',
+    date: new Date(2012, 5, 4),
     length: 5,
-    snippet: `UI Before API.`,
+    snippet: `Bicycle rights.`,
   },
 ]
 
